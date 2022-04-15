@@ -9,7 +9,7 @@ The files were edited to be as much flexible as possible.
 
 
 
-### You will need to edit particulars files such as:
+### You will need to edit particular files such as:
 
 *Admin.cfg --> Add your necessary users*
 
