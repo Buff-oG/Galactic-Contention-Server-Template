@@ -34,4 +34,4 @@ You must put the configuration files inside your ServerConfig directory:
 
 <br><br>
  
-Make sure to copy these files into the proper directory! If you have any questions, feel free to make leave a comment, push request.
+Make sure to copy these files into the proper directory! If you have any questions, feel free to leave a comment, fork or etc.
