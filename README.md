@@ -2,11 +2,13 @@
 
 ### Configuration template for the mod Galactic Contention running on Squad.
 
+<br>
 
 You must put the configuration files inside your ServerConfig directory "C:\$InstallationFolder\SquadGame\ServerConfig"
 
 The files were edited to be as much flexible as possible.
 
+<br>
 
 
 ### You will need to edit particular files such as:
@@ -23,6 +25,7 @@ The files were edited to be as much flexible as possible.
 
 *ServerMessages.cfg --> Edit your heads up messages*
 
+<br>
 
 
 Make sure to copy these files into the proper directory! If you have any questions, feel free to make leave a comment, push request.
