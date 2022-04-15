@@ -14,7 +14,6 @@ The files were edited to be as much flexible as possible.
 
 <br>
 
-
 ### You will need to edit particular files such as:
 
 [Admin.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Admins.cfg) --> *Add your necessary users*
@@ -29,8 +28,6 @@ The files were edited to be as much flexible as possible.
 
 [ServerMessages.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/ServerMessages.cfg) --> *Edit your heads up messages*
 
-<br>
-  
 <br><br>
-
+ 
 Make sure to copy these files into the proper directory! If you have any questions, feel free to make leave a comment, push request.
