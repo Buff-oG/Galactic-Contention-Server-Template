@@ -10,10 +10,11 @@
 
 <br><br>
 
-You must put the configuration files inside your ServerConfig directory 
-```C:\$InstallationFolder\SquadGame\ServerConfig\```
-
 The files were edited to be as much flexible as possible.
+
+You must put the configuration files inside your ServerConfig directory:
+<br>
+```C:\$InstallationFolder\SquadGame\ServerConfig\```
 
 <br>
 
