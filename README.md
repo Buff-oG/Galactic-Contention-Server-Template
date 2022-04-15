@@ -2,7 +2,7 @@
 
 <img src="Logo/GC_Logo.png" alt="Logo" width="500"/>
 
-
+[![GitHub release](https://img.shields.io/github/release/Buff-oG/GC-Server-Conf-Template.svg?style=flat-square)](https://github.com/Buff-oG/GC-Server-Conf-Template/releases)
 
 # GC-Server-Conf-Template
 
