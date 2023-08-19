@@ -37,6 +37,9 @@ You must put the configuration files inside your ServerConfig directory:
 [ServerMessages.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/ServerMessages.cfg) --> *Edit your heads up messages*
 
 <br><br>
+
+Steam MOD ID: 2428425228
+Steam Workshop URL: https://steamcommunity.com/sharedfiles/filedetails/?id=2428425228
  
 Any errors on maps with the "_DEV or "_WIP" extension is not supported in Discord "#bug-report" nor on GitHub. These levels and layers are for test purposes only.
 
