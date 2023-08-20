@@ -1,10 +1,10 @@
-** Warning **
+**Warning**
 
 This read me is in regard to SquadJS configuration. If you are not using SquadJS + Galactic Contention. You can ignore the folder "GC_JsonLayerScape" entirely.
 
 <br>
 <br>
-------------
+===
 <br>
 <br>
 How does it work?:
@@ -15,7 +15,7 @@ SquadJS will scrape our data and automatically update database with our JSON usi
 
 <br>
 <br>
-------------
+===
 <br>
 <br>
 
@@ -30,7 +30,7 @@ If you do not have SquadJS. We strongly recommend you to setup SquadJS for monit
 
 <br>
 <br>
-------------
+===
 <br>
 <br>
 
