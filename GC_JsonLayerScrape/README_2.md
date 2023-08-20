@@ -2,8 +2,6 @@
 
 This read me is in regard to SquadJS configuration. If you are not using SquadJS + Galactic Contention. You can ignore the folder "GC_JsonLayerScape" entirely.
 
-<br>
-<br>
 ===
 <br>
 <br>
