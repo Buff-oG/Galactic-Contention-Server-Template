@@ -9,9 +9,9 @@ This read me is in regard to SquadJS configuration. If you are not using SquadJS
 
 This file was added to help SquadJS bot to fetch the proper information about the Galactic Contention Level/Layers/Teams/Subfactions. To adhere a better environment and uniformity with SquadJS, we've created a JSON file containing all the necessary data. We will maintain this JSON file whenever we do modifications and/or update Galactic Contention.
 
-<span style="color: green">This our duty as Galactic Contention developer to maintain this json with our internal data scrapper via our editor widget</span>
+_This our duty as Galactic Contention developers to maintain this json with our internal data scrapper via our editor widget_
 
-SquadJS will scrape our data and automatically update database with our JSON using the proper levels/layers.
+AFO that is affiliated wit SquadJS will scrape our data and automatically update their database with our JSON.
 
 _______
 <br>
