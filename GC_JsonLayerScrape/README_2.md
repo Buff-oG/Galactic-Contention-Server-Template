@@ -11,7 +11,7 @@ This file was added to help SquadJS bot to fetch the proper information about th
 
 _This our duty as Galactic Contention developers to maintain this json with our internal data scrapper via our editor widget_
 
-AFO that is affiliated wit SquadJS will scrape our data and automatically update their database with our JSON.
+AFO that is affiliated with SquadJS will scrape our data and automatically update their database with our JSON.
 
 _______
 <br>
