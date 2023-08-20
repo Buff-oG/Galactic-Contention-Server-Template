@@ -4,17 +4,14 @@ This read me is in regard to SquadJS configuration. If you are not using SquadJS
 
 ---
 <br>
-<br>
+
 <h3>How does it work?:</h3>
 
 This file was added to help SquadJS bot to fetch the proper information about the Galactic Contention Level/Layers/Teams/Subfactions. To adhere a better environment and uniformity with SquadJS, we've created a JSON file containing all the necessary data. We will maintain this JSON file whenever we do modifications and/or update Galactic Contention.
 
 SquadJS will scrape our data and automatically update database with our JSON using the proper levels/layers.
 
-<br>
-<br>
 _______
-<br>
 <br>
 
 <h3>What to do:</h3>
@@ -26,10 +23,7 @@ If you do not have SquadJS. We strongly recommend you to setup SquadJS for monit
 3. Save and relaunch SquadJS to validate everything is okay
 4. Upon playing a Galactic Contention layer, the Squad JS bot will show the proper Galatic Contention layer name in Discord in the status bar.
 
-<br>
-<br>
 _______
-<br>
 <br>
 
 <h3>Okay but how does it work?:</h3>
