@@ -29,7 +29,7 @@ _______
 <h3>Okay but how does it work?:</h3>
 
 Our json is being scrapped by SquadJS and it is using our mod ID to load the proper json data. Sadly for unknown obnoxious reasons, the JS axios GET request of our json is not making the cut. It won't load or show the proper level/layers names on the discord SquadJS bot.
-However, if we make a JS axis POST request with our mod ID, it works very well.
+However, if we make a JS axios POST request with our mod ID as the setting, it works very well.
 
 If you look the difference between the original SquadJS layers.js file and ours, we are doing a POST request on the Galactic Contention workshop id hosted by AFO community.
 
