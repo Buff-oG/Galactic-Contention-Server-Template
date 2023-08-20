@@ -39,6 +39,7 @@ You must put the configuration files inside your ServerConfig directory:
 <br><br>
 
 Steam MOD ID: 2428425228
+<br>
 Steam Workshop URL: https://steamcommunity.com/sharedfiles/filedetails/?id=2428425228
  
 Any errors on maps with the "_DEV or "_WIP" extension is not supported in Discord "#bug-report" nor on GitHub. These levels and layers are for test purposes only.
