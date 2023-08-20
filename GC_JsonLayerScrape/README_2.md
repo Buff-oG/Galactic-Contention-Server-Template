@@ -9,7 +9,7 @@ This read me is in regard to SquadJS configuration. If you are not using SquadJS
 
 This file was added to help SquadJS bot to fetch the proper information about the Galactic Contention Level/Layers/Teams/Subfactions. To adhere a better environment and uniformity with SquadJS, we've created a JSON file containing all the necessary data. We will maintain this JSON file whenever we do modifications and/or update Galactic Contention.
 
-- ![#f03c15] aaa `#f03c15`
+- ![#f03c15] (aaa) `#f03c15`
 
 SquadJS will scrape our data and automatically update database with our JSON using the proper levels/layers.
 
