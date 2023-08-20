@@ -13,7 +13,7 @@ SquadJS will scrape our data and automatically update database with our JSON usi
 
 <br>
 <br>
----
+_______
 <br>
 <br>
 
@@ -28,7 +28,7 @@ If you do not have SquadJS. We strongly recommend you to setup SquadJS for monit
 
 <br>
 <br>
----
+_______
 <br>
 <br>
 
