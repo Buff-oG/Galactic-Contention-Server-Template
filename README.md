@@ -44,4 +44,4 @@ Steam Workshop URL: https://steamcommunity.com/sharedfiles/filedetails/?id=24284
  
 Any errors on maps with the "_DEV or "_WIP" extension is not supported in Discord "#bug-report" nor on GitHub. These levels and layers are for test purposes only.
 
-Make sure to copy these files into the proper directory! If you have any questions, feel free to leave a comment, fork or etc.
+Make sure to copy these files into the proper directory! If you have any questions, feel free to create an issue or contact us on discord.
