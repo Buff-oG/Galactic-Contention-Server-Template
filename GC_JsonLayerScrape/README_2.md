@@ -5,7 +5,7 @@ This read me is in regard to SquadJS configuration. If you are not using SquadJS
 =======================
 <br>
 <br>
-<h3>**How does it work?:**</h3>
+<h3>How does it work?:</h3>
 
 This file was added to help SquadJS bot to fetch the proper information about the Galactic Contention Level/Layers/Teams/Subfactions. To adhere a better environment and uniformity with SquadJS, we've created a JSON file containing all the necessary data. We will maintain this JSON file whenever we do modifications and/or update Galactic Contention.
 
@@ -17,7 +17,7 @@ SquadJS will scrape our data and automatically update database with our JSON usi
 <br>
 <br>
 
-<h3>**What to do:**</h3>
+<h3>What to do:</h3>
 
 If you do not have SquadJS. We strongly recommend you to setup SquadJS for monitoring purposes. It can be found here: " https://github.com/Team-Silver-Sphere/SquadJS "
 
@@ -32,7 +32,7 @@ If you do not have SquadJS. We strongly recommend you to setup SquadJS for monit
 <br>
 <br>
 
-<h3>**Okay but how does it work?:**</h3>
+<h3>Okay but how does it work?:</h3>
 
 Our json is being scrapped by SquadJS and it is using our mod ID to load the proper json data. Sadly for unknown obnoxious reasons, the JS axios GET request of our json is not making the cut. It won't load or show the proper level/layers names on the discord SquadJS bot.
 However, if we make a JS axis POST request with our mod ID, it works very well.
