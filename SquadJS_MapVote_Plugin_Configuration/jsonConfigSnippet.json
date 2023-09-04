@@ -19,7 +19,8 @@
       "/Lego/",
       "/GLOPS/",
       "/GC_KaminoTraining/",
-      "/TDM/"
+      "/TDM/",
+      "/Vanilla/"
     ],
     "layerLevelWhitelist": [],
     "applyBlacklistToWhitelist": true,
