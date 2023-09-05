@@ -1,0 +1,41 @@
+// Galactic Contention server cluster in testing json for SquadJS config
+// Galactic Contention server cluster in testing json for SquadJS config
+
+
+{
+    "plugin": "MapVote",
+    "enabled": true,
+    "discordClient": "discord",
+    "entriesAmount": 6,
+    "automaticVoteStart": true,
+    "minPlayersForVote": 40,
+    "voteWaitTimeFromMatchStart": 5,
+    "voteBroadcastInterval": 10,
+    "instantSeedingModePlayerCount": 5,
+    "nextLayerSeedingModePlayerCount": 20,
+    "numberRecentMapsToExlude": 6,
+    "automaticSeedingMode": true,
+    "gamemodeWhitelist": [ "INVASION" ],
+    "layerLevelBlacklist": [
+      "/GC_.*_Special/",
+      "/Lego/",
+      "/GLOPS/",
+      "/GC_KaminoTraining/",
+      "/TDM/",
+      "/Vanilla/"
+    ],
+    "layerLevelWhitelist": [],
+    "applyBlacklistToWhitelist": true,
+    "factionsBlacklist": [],
+    "logToDiscord": true,
+    "channelID": "112233445566778899",
+    "persistentDataFile": "",
+    "timezone": 2,
+    "filterByMod": ["GC"],
+    "minGamemodeEntries": {
+        "raas": 1,
+        "aas": 1,
+        "invasion": 3,
+        "insurgency": 1
+            }
+    },
