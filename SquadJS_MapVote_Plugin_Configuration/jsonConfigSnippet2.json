@@ -6,11 +6,13 @@
     "plugin": "MapVote",
     "enabled": true,
     "discordClient": "discord",
-    "entriesAmount": 6,
+    "entriesAmount": 5,
     "automaticVoteStart": true,
     "minPlayersForVote": 40,
     "voteWaitTimeFromMatchStart": 5,
-    "voteBroadcastInterval": 10,
+    "voteBroadcastInterval": 7,
+    "hideVotesCount": false,
+    "minimumVotesToAcceptResult": 1,
     "instantSeedingModePlayerCount": 5,
     "nextLayerSeedingModePlayerCount": 20,
     "numberRecentMapsToExlude": 6,
@@ -33,7 +35,6 @@
     "timezone": 2,
     "filterByMod": ["GC"],
     "minGamemodeEntries": {
-        "raas": 1,
         "aas": 1,
         "invasion": 3,
         "insurgency": 1
