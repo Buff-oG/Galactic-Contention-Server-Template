@@ -1,6 +1,6 @@
 [H1] Galactic Contention SquadJS configuration snippet for mapvote plugin snippet [H1]
 
-The MapVote plugin for squad js based on the original version https://github.com/maskedmonkyman/squad-js-map-vote
+The MapVote plugin for squad js based on the original version https://github.com/fantinodavide/squad-js-map-vote
 Commands
 User Commands
 
