@@ -1,0 +1,35 @@
+// v2.0 LAYER_ROTATION: These must be Layer_Id's; those_are_different from_display names! I.e. "Belaya_AAS_v1" is correct, "Belaya AAS v1" is not.
+// NOTE: this file is used for servers running in MapRotationMode=LayerList, running in order, or for servers running in MapRotationMode=LayerList_Randomized, where the below layers are rotated randomly. This setting can be found in your Server.cfg file (make sure to use a fresh one as your basis).
+// NOTE: in-line comments will not work in this config until further notice. Comment lines should be in separate lines, if used.
+
+// #######################################################################################################################################
+// ##Galactic Contention vanilla Layer rotation. This layer rotation setup is currently used on our 100 pop server, fixed rotation, [GC] Galactic Contention 2.##
+// ##Galactic Contention vanilla Layer rotation. This layer rotation setup is currently used on our 100 pop server, fixed rotation, [GC] Galactic Contention 2.##
+// ##Galactic Contention vanilla Layer rotation. This layer rotation setup is currently used on our 100 pop server, fixed rotation, [GC] Galactic Contention 2.##
+// #######################################################################################################################################
+
+Manicouagan_Invasion_V5
+Manicouagan_RAAS_V7
+Manicouagan_Invasion_V6
+GooseBay_Invasion_V4
+AlBasrah_Invasion_V2
+AlBasrah_Invasion_V8
+BlackCoast_RAAS_V5
+BlackCoast_Invasion_V3
+Belaya_Invasion_V2
+Harju_RAAS_V4
+Harju_Invasion_V3
+Yehorivka_RAAS_V13
+Yehorivka_Invasion_V3
+TallilOutskirts_AAS_V2
+TallilOutskirts_Invasion_V5
+Skorpo_Invasion_V3
+Narva_RAAS_V2
+Narva_Invasion_V1
+Mutaha_Invasion_V3
+Mutaha_Invasion_V4
+KohatToi_Invasion_V4
+KohatToi_RAAS_V7
+Gorodok_Invasion_V2
+Gorodok_INV_V1
+Gorodok_RAAS_V08
