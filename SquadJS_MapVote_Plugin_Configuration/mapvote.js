@@ -1,6 +1,6 @@
 //Plugin reworked by JetDave, original version by MaskedMonkeyMan
 //Plugin can be found here: https://github.com/fantinodavide/squad-js-map-vote
-// Here's the 1:1 code snippet of the Galactic Contention Server cluster
+//Here's the 1:1 code snippet of the Galactic Contention Server cluster
 
 // import BasePlugin from "./base-plugin.js";
 import DiscordBasePlugin from './discord-base-plugin.js';
