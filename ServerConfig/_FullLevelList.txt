@@ -1,0 +1,34 @@
+// COMPLETE LIST OF LEVEL IDs FOR GALACTIC CONTENTION
+// COMPLETE LIST OF LEVEL IDs FOR GALACTIC CONTENTION
+// COMPLETE LIST OF LEVEL IDs FOR GALACTIC CONTENTION
+
+BespinPlatforms
+Coruscant
+CorvetteAssaultV2
+Felucia
+Galban
+Geonosis
+Kashyyyk
+Kavado
+Miniosis
+Morak
+MorakLegacy
+Mygeeto
+NabooPlains
+RhenVar
+Ryloth
+Sesid
+SesidEquator
+Sullust
+Tatooine
+VenatorAssault
+Yavin4
+
+### Dev/WIP 
+### We do not recommend using any of these level id's for live play!
+// Dev_Testing
+// Dev_ArmorValues (Provides information about the Galactic Contention vehicle armors)
+// Umbara
+// Umbara_2
+// OrtoPlutonia
+// KaminoTraining
