@@ -23,7 +23,7 @@ You must put the configuration files inside your ServerConfig directory:
 ### You will need to edit particular files such as:
 
 
---- Administration --- 
+--- *Administration* --- 
 
 [Server.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Server.cfg) --> *Edit your server name*
 
@@ -34,7 +34,7 @@ You must put the configuration files inside your ServerConfig directory:
 [Admin.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Admins.cfg) --> *Add your necessary users*
 
 
---- Levels and Layers ---
+--- *Levels/Layers and Map vote configuration* ---
 
 [LayerRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LayerRotation.cfg) --> *Specify which layer you would like to add or remove from the layer rotation*
 
