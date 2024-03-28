@@ -32,7 +32,10 @@ You must put the configuration files inside your ServerConfig directory:
 [ServerMessages.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/ServerMessages.cfg) --> *Edit your heads up messages*
 
 [Admin.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Admins.cfg) --> *Add your necessary users*
-<br>
+
+
+
+
 
 --- *Levels/Layers and Map vote configuration* ---
 
