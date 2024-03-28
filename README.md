@@ -43,7 +43,7 @@ You must put the configuration files inside your ServerConfig directory:
 [LevelRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LevelRotation.cfg) --> *Specific which level you would like to add or remove from the map rotation*
 
 
-<br><br>
+<br><br><br><br>
 
 Steam MOD ID: 2428425228
 
