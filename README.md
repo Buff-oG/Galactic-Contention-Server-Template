@@ -24,6 +24,7 @@ You must put the configuration files inside your ServerConfig directory:
 
 
 --- Administration --- 
+
 [Server.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Server.cfg) --> *Edit your server name*
 
 [MOTD.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/MOTD.cfg) --> *Edit your Message Of The Day*
@@ -31,6 +32,7 @@ You must put the configuration files inside your ServerConfig directory:
 [ServerMessages.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/ServerMessages.cfg) --> *Edit your heads up messages*
 
 [Admin.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Admins.cfg) --> *Add your necessary users*
+
 
 --- Levels and Layers ---
 
