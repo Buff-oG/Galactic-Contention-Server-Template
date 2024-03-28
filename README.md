@@ -23,7 +23,7 @@ You must put the configuration files inside your ServerConfig directory:
 ### You will need to edit particular files such as:
 
 
-# *Administration*
+#### --- *Administration* ---
 
 [Server.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Server.cfg) --> *Edit your server name*
 
@@ -32,17 +32,32 @@ You must put the configuration files inside your ServerConfig directory:
 [ServerMessages.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/ServerMessages.cfg) --> *Edit your heads up messages*
 
 [Admin.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Admins.cfg) --> *Add your necessary users*
+<br>
+<br>
+#### --- *Levels/Layers settings for standard rotation* ---
 
-# *Levels/Layers and Map vote configuration*
+[_LayerRotation.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_LayerRotationComplete.cfg) --> *The entire Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
 
-[LayerRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LayerRotation.cfg) --> *Specify which layer you would like to add or remove from the layer rotation*
+[LayerRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LayerRotation.cfg) --> *Specify which layer you would like to add or remove from the layer rotation.*
 
-[_LayerRotation.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_LayerRotationComplete.cfg) --> *The ENTIRE Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
+[LevelRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LevelRotation.cfg) --> *Specify which level you would like to add or remove from the map rotation.*
 
-[LevelRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LevelRotation.cfg) --> *Specific which level you would like to add or remove from the map rotation*
+[_ServerWithStandardRotation.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_ServerWithStandardRotation.cfg) --> *Server configuration with standard layer rotation. Map voting is not enabled.*
+<br>
+<br>
+#### --- *Levels/Layers settings for the map vote configuration* ---
 
+[VoteConfig.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/VoteConfig.cfg)  --> *Specify your map vote configuration such as, the amount of layers, faction selection, game modes, etc.*
 
-<br><br>
+[ExcludedLayers.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/ExcludedLayers.cfg) --> *Specify the layers you do not want to be part of your map vote pool. We recommend to exclude broken layers if you find any.*
+
+[ExcludedLevels.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/ExcludedLevels.cfg) --> *Specify the Level id that you do not want to be part of your map vote pool. We recommend to exclude broken layers. By default the Galactic Contention team already commented out the levels that we do not recommend to put on LIVE play.*
+
+[LayerVotingLowPlayers.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVotingLowPlayers.cfg) --> *Specify the low population layers you would like to have in your map vote pool. We recommend to put small maps, Skirmish and Seed layers.*
+
+[LayerVoting.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVoting.cfg) --> *Specify the layers you would like to have in your map vote pool. We recommend to put the big layers such as AAS, RAAS, INV, RINV and Disturbance (Insurgency).*
+<br>
+<br>
 
 ## Misc
 
