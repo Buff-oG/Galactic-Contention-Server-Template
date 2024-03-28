@@ -43,7 +43,9 @@ You must put the configuration files inside your ServerConfig directory:
 [LevelRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LevelRotation.cfg) --> *Specific which level you would like to add or remove from the map rotation*
 
 
-<br><br><br><br>
+<br><br>
+
+## Misc
 
 Steam MOD ID: 2428425228
 
@@ -51,4 +53,4 @@ Steam Workshop URL: https://steamcommunity.com/sharedfiles/filedetails/?id=24284
  
 Any errors on maps with the "_DEV or "_WIP" extension is not supported in Discord "#bug-report" nor on GitHub. These levels and layers are for test purposes only.
 
-Make sure to copy these files into the proper directory! If you have any questions, feel free to create an issue or contact us on discord.
+Make sure to copy these files into the proper directory! If you have any questions, feel free to create an issue.
