@@ -1,0 +1,54 @@
+## This file is used to show you the current faction names that we are using within Galactic Contention for the Map Voting.
+## If you wish to set a specific layer with a specific faction, it must be available within the GLD but you must type the
+## proper faction ID with the proper SubSetup, such as "CombinedArms", "Mechanized"
+##
+
+Faction IDs by Alliance. [Name Clarification in brackets]
+
+===
+BLUFOR || Clones:
+GARP1 [Shiny Clones]
+GARP2 [Shiny Clones]
+501P1
+501P2
+41P1
+41P2
+212P1
+212P2
+104P1 [Wolf Pack]
+104P2 [Wolf Pack]
+241P2 [Tukk]
+327P2
+42P1 [HEAT Regiment]
+91P2
+125P2 [Doom Legion]
+21P2 [Galactic Marines]
+CGSTP1 [Coruscant Guard]
+CGSTP2 [Coruscant Guard]
+13P2 [Halloween]
+GUN [Gungans]
+CREBP1 [Clone Rebellion]
+GDAR [Grand Droid Army of the Republic]
+===
+
+===
+REDFOR || CIS:
+DAS [Droid Army - Standard]
+DASO [Droid Army - SpecOps]
+DAC [Droid Army - Camo]
+DAG [Droid Army - Geonosis]
+DAH [Droid Army - Halloween]
+GEO [Geonosian Hive]
+SCA [Separatist Clone Army]
+===
+
+===
+INDEPENDENT || Others:
+TUS [Tuskens]
+SAR [Sarim Tuskens]
+===
+
+===
+PLA || Empire:
+GEP3
+===
