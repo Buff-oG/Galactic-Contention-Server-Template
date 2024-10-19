@@ -32,15 +32,18 @@ You must put the configuration files inside your ServerConfig directory:
 [ServerMessages.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/ServerMessages.cfg) --> *Edit your heads up messages*
 
 [Admin.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/Admins.cfg) --> *Add your necessary users*
+
 <br>
 <br>
-#### --- *Levels/Layers settings for standard rotation* ---
+#### --- *Levels and Layers selection and informations* ---
 
 [_CompleteLayerList.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLayerList.cfg) --> *The entire Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
 
 [_CompleteLevelIds.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLevelIds.cfg) --> *The entire Galatic Contention Level list. Feel free to pick your Level from this configuration file.*
 
-[LayerVoting.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVoting.cfg) --> *Specify the layers you would like to have in your map vote pool. We recommend to put the big layers such as AAS, RAAS, INV, RINV and Disturbance (Insurgency).*
+<br>
+<br>
+#### --- *Levels/Layers settings for standard rotation* ---
 
 [LayerRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LayerRotation.cfg) --> *Specify which layer you would like to add or remove from the layer rotation.*
 
@@ -50,6 +53,8 @@ You must put the configuration files inside your ServerConfig directory:
 <br>
 <br>
 #### --- *Levels/Layers settings for the map vote configuration* ---
+
+[LayerVoting.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVoting.cfg) --> *Specify the layers you would like to have in your map vote pool. We recommend to put the big layers such as AAS, RAAS, INV, RINV and Disturbance (Insurgency).*
 
 [VoteConfig.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/VoteConfig.cfg)  --> *Specify your map vote configuration such as, the amount of layers, faction selection, game modes, etc.*
 
