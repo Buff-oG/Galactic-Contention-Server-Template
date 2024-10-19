@@ -36,7 +36,11 @@ You must put the configuration files inside your ServerConfig directory:
 <br>
 #### --- *Levels/Layers settings for standard rotation* ---
 
-[_LayerRotation.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_LayerRotationComplete.cfg) --> *The entire Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
+[_CompleteLayerList.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLayerList.cfg) --> *The entire Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
+
+[_CompleteLevelIds.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLevelIds.cfg) --> *The entire Galatic Contention Level list. Feel free to pick your Level from this configuration file.*
+
+[LayerVoting.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVoting.cfg) --> *Specify the layers you would like to have in your map vote pool. We recommend to put the big layers such as AAS, RAAS, INV, RINV and Disturbance (Insurgency).*
 
 [LayerRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LayerRotation.cfg) --> *Specify which layer you would like to add or remove from the layer rotation.*
 
@@ -49,13 +53,12 @@ You must put the configuration files inside your ServerConfig directory:
 
 [VoteConfig.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/VoteConfig.cfg)  --> *Specify your map vote configuration such as, the amount of layers, faction selection, game modes, etc.*
 
+[LayerVotingLowPlayers.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVotingLowPlayers.cfg) --> *Specify the low population layers you would like to have in your map vote pool. We recommend to put small maps, Skirmish and Seed layers.*
+
 [ExcludedLayers.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/ExcludedLayers.cfg) --> *Specify the layers you do not want to be part of your map vote pool. We recommend to exclude broken layers if you find any.*
 
 [ExcludedLevels.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/ExcludedLevels.cfg) --> *Specify the Level id that you do not want to be part of your map vote pool. We recommend to exclude broken layers. By default the Galactic Contention team already commented out the levels that we do not recommend to put on LIVE play.*
 
-[LayerVotingLowPlayers.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVotingLowPlayers.cfg) --> *Specify the low population layers you would like to have in your map vote pool. We recommend to put small maps, Skirmish and Seed layers.*
-
-[LayerVoting.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVoting.cfg) --> *Specify the layers you would like to have in your map vote pool. We recommend to put the big layers such as AAS, RAAS, INV, RINV and Disturbance (Insurgency).*
 <br>
 <br>
 
