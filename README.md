@@ -40,7 +40,7 @@ You must put the configuration files inside your ServerConfig directory:
 
 [_CompleteLayerList.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLayerList.cfg) --> *The entire Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
 
-[_CompleteLevelIds.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLevelIds.cfg) --> *The entire Galatic Contention Level list. Feel free to pick your Level from this configuration file.*
+[_CompleteLevelIds.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLevelIds.cfg) --> *The entire Galatic Contention Level list. Feel free to pick your level from this configuration file. Highly recommend to use the default one provided.*
 
 <br>
 <br>
