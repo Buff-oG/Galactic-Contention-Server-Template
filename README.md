@@ -35,6 +35,7 @@ You must put the configuration files inside your ServerConfig directory:
 
 <br>
 <br>
+
 #### --- *Levels and Layers selection and informations* ---
 
 [_CompleteLayerList.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_CompleteLayerList.cfg) --> *The entire Galatic Contention Layer list. Feel free to pick your layers from this configuration file.*
@@ -43,6 +44,7 @@ You must put the configuration files inside your ServerConfig directory:
 
 <br>
 <br>
+
 #### --- *Levels/Layers settings for standard rotation* ---
 
 [LayerRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LayerRotation.cfg) --> *Specify which layer you would like to add or remove from the layer rotation.*
@@ -50,8 +52,10 @@ You must put the configuration files inside your ServerConfig directory:
 [LevelRotation.cfg](https://github.com/Buff-original/GC-Server-Conf-Template/blob/main/ServerConfig/LevelRotation.cfg) --> *Specify which level you would like to add or remove from the map rotation.*
 
 [_ServerWithStandardRotation.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/_ServerWithStandardRotation.cfg) --> *Server configuration with standard layer rotation. Map voting is not enabled.*
+
 <br>
 <br>
+
 #### --- *Levels/Layers settings for the map vote configuration* ---
 
 [LayerVoting.cfg](https://github.com/Buff-oG/Galactic-Contention-Server-Template/blob/main/ServerConfig/LayerVoting.cfg) --> *Specify the layers you would like to have in your map vote pool. We recommend to put the big layers such as AAS, RAAS, INV, RINV and Disturbance (Insurgency).*
