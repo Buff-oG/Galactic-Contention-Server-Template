@@ -76,6 +76,8 @@ You must put the configuration files inside your ServerConfig directory:
 
 ## Misc
 
+---
+
 Steam MOD ID: 2428425228
 
 Steam Workshop URL: https://steamcommunity.com/sharedfiles/filedetails/?id=2428425228
