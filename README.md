@@ -4,12 +4,13 @@
 
 [![GitHub release](https://img.shields.io/github/release/Buff-oG/GC-Server-Conf-Template.svg?style=flat-square)](https://github.com/Buff-oG/GC-Server-Conf-Template/releases)
 
-___ ### Galactic Contention Server Template
+### Galactic Contention Server Template
 
 Configuration template for the mod Galactic Contention running on Squad.
-
+</div align="center">
 <br><br>
 
+<div align="justify">
 The files were edited to be as much flexible as possible.
 
 The value " **$word** " mean it's a variable. You must change it to your need.
