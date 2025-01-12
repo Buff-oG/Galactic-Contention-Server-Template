@@ -1,4 +1,4 @@
-<div align="justify">
+<div align="left">
 
 <img src="Logo/GC_Logo.png" alt="Logo" width="500"/>
 
