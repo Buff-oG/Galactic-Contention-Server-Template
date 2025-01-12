@@ -14,9 +14,9 @@
 
 <div align="justify">
 The files were edited to be as much flexible as possible.
-
+<br>
 The value " **$word** " mean it's a variable. You must change it to your need.
-
+<br>
 You must put the configuration files inside your ServerConfig directory:
 <br>
 ```C:\$InstallationFolder\SquadGame\ServerConfig\```
