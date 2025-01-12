@@ -4,9 +4,9 @@
 
 [![GitHub release](https://img.shields.io/github/release/Buff-oG/GC-Server-Conf-Template.svg?style=flat-square)](https://github.com/Buff-oG/GC-Server-Conf-Template/releases)
 
-# Galactic Contention Server Template
+### Galactic Contention Server Template
 
-### Configuration template for the mod Galactic Contention running on Squad.
+Configuration template for the mod Galactic Contention running on Squad.
 
 <br><br>
 
