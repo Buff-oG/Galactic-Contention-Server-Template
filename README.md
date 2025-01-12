@@ -13,6 +13,9 @@
 <br><br>
 
 <div align="justify">
+ 
+### Starter:
+
 The files were edited to be as much flexible as possible.
 
 The value " **$word** " mean it's a variable. You must change it to your need.
