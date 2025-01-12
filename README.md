@@ -75,7 +75,6 @@ You must put the configuration files inside your ServerConfig directory:
 <br>
 
 ## Misc
-
 ---
 
 Steam MOD ID: 2428425228
