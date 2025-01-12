@@ -3,8 +3,7 @@
 <img src="Logo/GC_Logo.png" alt="Logo" width="500"/>
 
 [![GitHub release](https://img.shields.io/github/release/Buff-oG/GC-Server-Conf-Template.svg?style=flat-square)](https://github.com/Buff-oG/GC-Server-Conf-Template/releases)
-</div align="center">
-<div align="justify">
+
 # Galactic Contention Server Template
 
 ### Configuration template for the mod Galactic Contention running on Squad.
