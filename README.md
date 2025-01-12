@@ -21,6 +21,7 @@ The value " **$word** " mean it's a variable. You must change it to your need.
 
 You must put the configuration files inside your ServerConfig directory:
 
+*Gamepath example:*
 ```C:\$InstallationFolder\SquadGame\ServerConfig\```
 
 <br>
