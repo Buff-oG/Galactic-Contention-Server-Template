@@ -6,7 +6,7 @@
 
 ### Galactic Contention Server Template
 
-Configuration template for the mod Galactic Contention running on Squad.
+####Configuration template for the mod Galactic Contention running on Squad.
 ---
 </div align="center">
 <br><br>
